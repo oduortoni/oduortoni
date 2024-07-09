@@ -21,7 +21,7 @@ computer science and political science are related. My interest lies in finding 
   
 💞️ Collaboration
 
- Looking to collaborate on golang projects. I think the fact that golang requires less external tools to use, the language is a perfect fit for collaboration. There are fewer choices to make: text framework, how do we build...
+ Looking to collaborate on golang projects. I think the fact that golang requires less external tools to use, the language is a perfect fit for collaboration. There are fewer choices to make: test framework, how do we build...
 
 📫 reach me at:
 
