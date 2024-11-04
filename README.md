@@ -29,4 +29,4 @@ computer science and political science are related. My interest lies in finding 
   
 ⚡ Fun fact: 
 
-    I genuinely believe bioelectricity and genetic programming will be the source of human immortality.
+    I try to code projects I have written in other languges in C in order to get an indepth understanding of the concepts involved.
