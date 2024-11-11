@@ -11,13 +11,9 @@ computer science and political science are related. My interest lies in finding 
 
   - Go
   - C
-  - PHP
+  - JavaScript
 
-  I am learning these languages for a reason. When it comes to Go, I think it is an awesome language that does the simple things well. If a language can do that, then it becomes easier to compose these tiny things into larger and more complex
-  things. In as much as I love Go, there are times when I think modern languages overdo stuff. I prefer C probably for the same reason others hate it. I love pointers and the fact that you need a bit of machine knowledge to program in C at
-  an advanced level. Since my idea is to become the best I can possibly be, I use the harder language to program in mostly to get to know how things work at the fundamental level. I can not stop telling you how much I have used the knowledge
-   of C to solve problems in other languages. PHP is just awesome and universally available in web hosts. The number of places you can host a random ideas is amazing. The current changes made in PHP are also making it more and more appealing.
-  I also prefer the fact that you can count on pure PHP to deliver a quality website instead of using frameworks that at times overdo things.
+  I love Go. I think it is an awesome language that does the simple things well. It is easier to compose functions and the module system is a breeze. In as much as I love Go, there are times when I think modern languages hide a lot of the implementation details. In such a case, I drop down to C in order to understand topics from first principles. Finally, no one can escape JavaScript. It is everywhere these days. I like the protoypal nature of the language.
   
 💞️ Collaboration
 
