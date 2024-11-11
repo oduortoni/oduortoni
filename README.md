@@ -13,11 +13,11 @@ computer science and political science are related. My interest lies in finding 
   - C
   - JavaScript
 
-  I love Go. I think it is an awesome language that does the simple things well. It is easier to compose functions and the module system is a breeze. In as much as I love Go, there are times when I think modern languages hide a lot of the implementation details. In such a case, I drop down to C in order to understand topics from first principles. Finally, no one can escape JavaScript. The more you code in it the more you appreciate what it can do and what it has made possible over the years.
+  I love Go. I think it is an awesome language that does the simple things well. It is easier to compose functions and the module system is a breeze. There are times when I need to understand the implementation details of things. It is during such times that I drop down to C. It helps one understand topics from the first principles while at the same time frustrating them into becoming better at programming. Finally, no one can escape JavaScript. The more you code in it the more you appreciate what it can do and what it has made possible over the years.
   
 💞️ Collaboration
 
- Looking to collaborate on golang projects. I think the fact that golang requires less external tools to use, the language is a perfect fit for collaboration. There are fewer choices to make: test framework, how do we build...
+ Looking to collaborate on golang projects, but would be open-minded enough to step outside of it.
 
 📫 reach me at:
 
