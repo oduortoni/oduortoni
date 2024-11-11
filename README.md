@@ -13,7 +13,7 @@ computer science and political science are related. My interest lies in finding 
   - C
   - JavaScript
 
-  I love Go. I think it is an awesome language that does the simple things well. It is easier to compose functions and the module system is a breeze. In as much as I love Go, there are times when I think modern languages hide a lot of the implementation details. In such a case, I drop down to C in order to understand topics from first principles. Finally, no one can escape JavaScript. It is everywhere these days. I like the protoypal nature of the language.
+  I love Go. I think it is an awesome language that does the simple things well. It is easier to compose functions and the module system is a breeze. In as much as I love Go, there are times when I think modern languages hide a lot of the implementation details. In such a case, I drop down to C in order to understand topics from first principles. Finally, no one can escape JavaScript. The more you code in it the more you appreciate what it can do and what it has made possible over the years.
   
 💞️ Collaboration
 
