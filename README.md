@@ -4,8 +4,7 @@
   
 👀 Interests...
 
-Computer programming, science and politics. I love these three fields in no particular order, largely because I tend to seek the underlying connection between things. I am probably the kind of person who would tell you how
-computer science and political science are related. My interest lies in finding ways to explain things using computers. I am on a journey of perfecting my ability to simulate everything and anything.
+Computer programming, science and politics. I love these three fields in no particular order, largely because I tend to seek the underlying connection between things.
 
 🌱 Learning...
 
