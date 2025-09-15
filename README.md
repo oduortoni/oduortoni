@@ -12,10 +12,16 @@ Computer programming, science and politics. I love these three fields in no part
   - php
   - C
   - JavaScript
+  - Solidity
+
+Frameworks
+
+  - Laravel
+  - Beego
   
 💞️ Collaboration
 
- Looking to collaborate on golang projects, but would be open-minded enough to step outside of it.
+ Looking to collaborate on golang, C, PHP projects, but would be open-minded enough to step outside of it.
 
 📫 reach me at:
 
